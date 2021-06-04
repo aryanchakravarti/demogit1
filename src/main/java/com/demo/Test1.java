@@ -9,4 +9,8 @@ public class Test1 {
 		System.out.println("Test1 ");
 		
 	}
+	Test1(int a){
+		System.out.println("Test1 ");
+		
+	}
 }
